@@ -22,6 +22,14 @@ p {
   font-size: 14px;
 }
 
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
 .main-banner {
   background-image: url("./images/the-flatiron-building.png");
   color: white;
